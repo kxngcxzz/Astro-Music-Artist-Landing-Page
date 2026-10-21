@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kxngcxzz.github.io/Astro-Music-Artist-Landing-Page/sitemap.xml
